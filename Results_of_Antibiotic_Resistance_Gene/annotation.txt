@@ -1,0 +1,1056 @@
+ORF_ID	AMR_Gene_Family	Antibiotic
+k191_68867_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_1295_293	BJP beta-lactamase	
+k191_1688_111	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_1955_73	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_16364_293	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_28538_39	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_576474_2	major facilitator superfamily (MFS) antibiotic efflux pump	chloramphenicol
+k191_596950_30	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_95212_17	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_825745_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_1510_152	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_28813_1246	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_111328_114	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_111328_957	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_23620_225	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_23620_261	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_124414_199	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_119906_2	vanH; glycopeptide resistance gene cluster	vancomycin
+k191_26341_67	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_6407_75	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_50702_182	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_22664_7	major facilitator superfamily (MFS) antibiotic efflux pump	erythromycin; gentamicin C; ciprofloxacin; spectinomycin; streptomycin; tobramycin; ceftazidime; ertapenem; piperacillin; azithromycin; imipenem; polymyxin B; polymyxin B1; polymyxin B2; polymyxin B3; polymyxin B4; norfloxacin; ticarcillin; gentamicin
+k191_4409_22	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_36391_331	resistance-nodulation-cell division (RND) antibiotic efflux pump	erythromycin; cloxacillin; oxacillin; norfloxacin
+k191_36391_10	fluoroquinolone resistant gyrB	enoxacin; ciprofloxacin; levofloxacin; moxifloxacin; gatifloxacin; lomefloxacin; nalidixic acid; norfloxacin; ofloxacin; trovafloxacin; grepafloxacin; sparfloxacin; pefloxacin
+k191_27455_184	Penicillin-binding protein mutations conferring resistance to beta-lactam antibiotics	ceftriaxone; ampicillin; cefaclor; cefotaxime; cefditoren; cefdinir
+k191_42590_34	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_31399_24	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_4777_136	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_15128_137	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_15128_272	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_2513_44	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_3010_54	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_14376_124	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_6113_90	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_9159_108	OXA beta-lactamase	cloxacillin; oxacillin; cefalotin
+k191_6502_27	OXA beta-lactamase	cloxacillin; oxacillin; cefalotin
+k191_14923_10	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_14923_66	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_15319_21	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_3512_4	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_24992_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_4369_5	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_15341_23	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_12563_101	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_3228_115	chloramphenicol acetyltransferase (CAT)	chloramphenicol
+k191_4526_40	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_6896_17	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_21_29	vanW; glycopeptide resistance gene cluster	vancomycin
+k141_36_93	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k141_2842_4	chloramphenicol acetyltransferase (CAT)	azidamfenicol; chloramphenicol; thiamphenicol
+k141_11449_23	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k141_11623_45	OXA beta-lactamase	cloxacillin; oxacillin; cefalotin
+k141_8937_2	APH(3'')	streptomycin
+k141_8937_3	APH(6)	streptomycin
+k141_4211_2	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline
+k141_12937_24	macrolide phosphotransferase (MPH)	erythromycin
+k141_12937_25	msr-type ABC-F protein	erythromycin
+k141_54285_1	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline
+k141_76736_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k141_119837_186	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_160353_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_178391_104	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k141_29646_4	vanY; glycopeptide resistance gene cluster	vancomycin
+k141_126125_203	vanY; glycopeptide resistance gene cluster	vancomycin
+k141_77741_1	aminosalicylate resistant dihydrofolate synthase	para-aminosalicylic acid
+k141_140619_7	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k141_171487_136	chloramphenicol acetyltransferase (CAT)	chloramphenicol
+k141_172531_31	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_41102_10	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_17571_84	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k141_78003_10	vanY; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k141_8547_59	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_12395_59	major facilitator superfamily (MFS) antibiotic efflux pump	nalidixic acid
+k141_12395_61	major facilitator superfamily (MFS) antibiotic efflux pump	nalidixic acid
+k141_103199_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k141_25626_32	resistance-nodulation-cell division (RND) antibiotic efflux pump	erythromycin; cloxacillin; oxacillin; norfloxacin
+k141_106402_278	glycopeptide resistance gene cluster; Van ligase	vancomycin
+k141_8513_200	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_78837_17	fosfomycin thiol transferase	ciprofloxacin; gentamicin
+k141_78837_182	major facilitator superfamily (MFS) antibiotic efflux pump	acriflavine; puromycin
+k141_110728_65	resistance-nodulation-cell division (RND) antibiotic efflux pump	novobiocin
+k141_66371_17	ATP-binding cassette (ABC) antibiotic efflux pump	metronidazole
+k141_66371_424	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_66371_425	resistance-nodulation-cell division (RND) antibiotic efflux pump	tigecycline; ciprofloxacin; nitrofurantoin; trimethoprim
+k141_66371_616	major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump	erythromycin; cloxacillin; ciprofloxacin; tetracycline; oxacillin; norfloxacin
+k141_66371_676	resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams	tigecycline; tetracycline; rifampin; chloramphenicol; ampicillin; cefalotin; triclosan
+k141_67781_17	small multidrug resistance (SMR) antibiotic efflux pump	erythromycin; streptomycin; tetracycline; cefepime; ceftriaxone; rifampin; colistin A; colistin B; triclosan; benzalkonium chloride; chlorhexidine
+k141_67781_18	small multidrug resistance (SMR) antibiotic efflux pump	erythromycin; streptomycin; tetracycline; cefepime; ceftriaxone; rifampin; colistin A; colistin B; triclosan; benzalkonium chloride; chlorhexidine
+k141_89003_98	pmr phosphoethanolamine transferase	colistin A; colistin B
+k141_106402_183	antibiotic-resistant GlpT	fosfomycin
+k141_78837_189	Penicillin-binding protein mutations conferring resistance to beta-lactam antibiotics	ceftriaxone; ampicillin; cefaclor; cefotaxime; cefditoren; cefdinir
+k141_66371_677	resistance-nodulation-cell division (RND) antibiotic efflux pump	tigecycline; ciprofloxacin; tetracycline; rifampin; chloramphenicol; ampicillin; cefalotin; triclosan
+k141_102309_15	glycopeptide resistance gene cluster; Van ligase	vancomycin
+k141_34670_14	ATP-binding cassette (ABC) antibiotic efflux pump; major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump	tigecycline; ciprofloxacin; acriflavine; tetracycline; rifampin; chloramphenicol; ampicillin; norfloxacin; cefalotin; triclosan
+k141_12180_4	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_69905_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_24784_1	ANT(2'')	dibekacin; sisomicin; kanamycin A; tobramycin; gentamicin
+k141_24784_2	ANT(3'')	spectinomycin; streptomycin
+k141_24784_3	sulfonamide resistant sul	sulfadiazine; sulfadimidine; sulfadoxine; sulfamethoxazole; sulfisoxazole; sulfacetamide; mafenide; sulfasalazine; sulfamethizole
+k141_25108_18	pmr phosphoethanolamine transferase	colistin A; colistin B
+k141_77646_9	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_34022_28	major facilitator superfamily (MFS) antibiotic efflux pump	
+k141_18039_126	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k141_14746_62	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_16418_175	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k141_8777_199	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_5581_293	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_5581_421	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k141_4960_171	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_5113_10	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_3511_204	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k141_3032_4	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k141_3032_64	OXA beta-lactamase	cloxacillin; oxacillin; ampicillin; cefalotin
+k141_3735_2	major facilitator superfamily (MFS) antibiotic efflux pump	
+k141_2758_73	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_1940_119	fosfomycin thiol transferase	fosfomycin
+k141_5104_19	LUT beta-lactamase	
+k141_5104_20	vanH; glycopeptide resistance gene cluster	vancomycin
+k141_5104_32	glycopeptide resistance gene cluster; Van ligase	vancomycin
+k141_4048_158	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_1969_162	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k141_34310_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k141_6122_6	resistance-nodulation-cell division (RND) antibiotic efflux pump	vancomycin; tigecycline; tetracycline; linezolid; rifampin; chloramphenicol; ampicillin; cefalotin; triclosan
+k141_10600_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_62047_8	major facilitator superfamily (MFS) antibiotic efflux pump	
+k141_81516_8	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_42552_4	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_105603_1	ATP-binding cassette (ABC) antibiotic efflux pump; major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump	tigecycline; ciprofloxacin; acriflavine; tetracycline; rifampin; chloramphenicol; ampicillin; norfloxacin; cefalotin; triclosan
+k191_182215_7	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_930751_5	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_511617_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_615941_5	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_34378_55	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_514289_145	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_1240499_4	vanY; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_233680_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_839840_2	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_913340_11	vanY; glycopeptide resistance gene cluster	vancomycin
+k191_179085_16	helicase-like RNA polymerase protection protein	rifampin; rifaximin; rifabutin
+k191_1045428_34	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_1052436_6	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_1052436_14	fosfomycin thiol transferase	fosfomycin
+k191_1052436_132	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_1052436_133	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_796026_65	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_323838_5	vanY; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_586179_38	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_231748_28	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_566345_342	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_113318_128	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_2743_18	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_33426_4	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_343640_12	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_218353_3	PER beta-lactamase	
+k191_798824_3	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_798824_9	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_287915_9	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_1097027_3	fosfomycin thiol transferase	fosfomycin
+k191_69984_2	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_87052_6	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_661525_7	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_301306_5	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_161842_23	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_581825_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_143384_35	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_535355_58	rifampin monooxygenase	rifampin; rifaximin; rifapentine
+k191_665848_53	RbpA bacterial RNA polymerase-binding protein	rifampin; rifaximin; rifabutin; rifapentine
+k191_335236_40	aminosalicylate resistant dihydrofolate synthase	para-aminosalicylic acid
+k191_32343_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_49702_10	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_449691_71	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_70071_16	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_284138_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_91611_33	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_29732_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_168116_21	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_107198_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_176670_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_115658_48	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_197760_2	vanY; glycopeptide resistance gene cluster	vancomycin
+k191_376529_1	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_415970_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_653058_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_673055_5	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_224030_2	vanY; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_606822_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_469074_3	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_25749_213	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_46345_18	OCH beta-lactamase	
+k191_112744_12	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_808303_204	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_306373_148	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_376096_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_721260_57	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_473451_5	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_473451_139	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_934185_23	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_1364039_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_84622_4	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_270910_47	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_1247134_76	vanH; glycopeptide resistance gene cluster	vancomycin
+k191_421071_220	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_941653_1	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_101137_2	aminosalicylate resistant dihydrofolate synthase	para-aminosalicylic acid
+k191_63504_1	ANT(3'')	spectinomycin; streptomycin
+k191_1050147_6	tetracycline-resistant ribosomal protection protein	tetracycline; doxycycline; minocycline; chlortetracycline; demeclocycline; oxytetracycline
+k191_637759_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_1208009_1	tetracycline-resistant ribosomal protection protein	tetracycline; doxycycline; minocycline; chlortetracycline; demeclocycline; oxytetracycline
+k191_2135296_1	msr-type ABC-F protein	erythromycin; azithromycin
+k191_561901_3	rifampin monooxygenase	rifampin; rifaximin; rifapentine
+k191_12998_10	fosfomycin thiol transferase	fosfomycin
+k191_1359534_143	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_1359534_785	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_967870_88	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_156705_8	glycopeptide resistance gene cluster; vanT	vancomycin
+k191_59576_15	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_147051_43	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_35832_4	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_73932_139	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_187394_13	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_188743_271	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_88056_115	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_213020_40	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_169905_4	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_239459_107	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_239459_127	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_241006_209	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_8499_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_55680_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_219001_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_31660_2	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_69277_4	vanH; glycopeptide resistance gene cluster	vancomycin
+k191_515545_13	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_418335_3	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_352313_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_352590_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_93018_2	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_522185_2	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_431696_11	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_127305_1	APH(3'')	streptomycin
+k191_145199_13	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_360692_44	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_152303_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_249145_345	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_57794_228	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_99739_322	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_455713_102	vanH; glycopeptide resistance gene cluster	vancomycin
+k191_466114_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_394238_9	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_405440_26	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_19846_4	vanH; glycopeptide resistance gene cluster	vancomycin
+k191_471003_10	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_505104_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_457705_34	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_32480_116	ATP-binding cassette (ABC) antibiotic efflux pump; major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump	tigecycline; ciprofloxacin; acriflavine; tetracycline; rifampin; chloramphenicol; ampicillin; norfloxacin; cefalotin; triclosan
+k191_473350_6	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_79108_80	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_79108_101	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_501374_1	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_3328_62	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_7466_78	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_7466_120	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_418965_67	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_144793_2	vanY; glycopeptide resistance gene cluster	vancomycin
+k191_62246_3	vanY; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_142318_38	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_458818_38	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_35729_13	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_35729_80	vanH; glycopeptide resistance gene cluster	vancomycin
+k191_67632_36	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_26110_23	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_36269_6	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_42240_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_14690_7	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_88718_172	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_31114_21	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_32342_16	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_40132_84	vanH; glycopeptide resistance gene cluster	vancomycin
+k191_84142_75	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_14049_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_138999_5	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_111763_21	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_112290_196	glycopeptide resistance gene cluster; Van ligase	vancomycin
+k191_112290_226	small multidrug resistance (SMR) antibiotic efflux pump	erythromycin; streptomycin; tetracycline; cefepime; ceftriaxone; rifampin; colistin A; colistin B; triclosan; benzalkonium chloride; chlorhexidine
+k191_112290_227	small multidrug resistance (SMR) antibiotic efflux pump	erythromycin; streptomycin; tetracycline; cefepime; ceftriaxone; rifampin; colistin A; colistin B; triclosan; benzalkonium chloride; chlorhexidine
+k191_59955_159	resistance-nodulation-cell division (RND) antibiotic efflux pump	erythromycin; cloxacillin; oxacillin; norfloxacin
+k191_29996_75	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_29996_866	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_29996_1926	major facilitator superfamily (MFS) antibiotic efflux pump	nalidixic acid
+k191_92366_504	pmr phosphoethanolamine transferase	colistin A; colistin B
+k191_39207_1	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline
+k191_95337_3	sulfonamide resistant sul	sulfadiazine; sulfadimidine; sulfadoxine; sulfamethoxazole; sulfisoxazole; sulfacetamide; mafenide; sulfasalazine; sulfamethizole
+k191_95337_4	major facilitator superfamily (MFS) antibiotic efflux pump	
+k191_53128_356	Penicillin-binding protein mutations conferring resistance to beta-lactam antibiotics	ceftriaxone; ampicillin; cefaclor; cefotaxime; cefditoren; cefdinir
+k191_97951_112	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_97951_366	resistance-nodulation-cell division (RND) antibiotic efflux pump	novobiocin
+k191_204873_125	fosfomycin thiol transferase	fosfomycin
+k191_156776_78	glycopeptide resistance gene cluster; Van ligase	vancomycin
+k191_156776_643	ATP-binding cassette (ABC) antibiotic efflux pump	metronidazole
+k191_118319_30	major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump	erythromycin; cloxacillin; ciprofloxacin; tetracycline; oxacillin; norfloxacin
+k191_118320_125	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_118320_131	major facilitator superfamily (MFS) antibiotic efflux pump	nalidixic acid
+k191_118320_133	major facilitator superfamily (MFS) antibiotic efflux pump	nalidixic acid
+k191_220058_6	resistance-nodulation-cell division (RND) antibiotic efflux pump	erythromycin; cloxacillin; oxacillin; norfloxacin
+k191_233067_334	small multidrug resistance (SMR) antibiotic efflux pump	erythromycin; streptomycin; tetracycline; cefepime; ceftriaxone; rifampin; colistin A; colistin B; triclosan; benzalkonium chloride; chlorhexidine
+k191_233067_335	small multidrug resistance (SMR) antibiotic efflux pump	erythromycin; streptomycin; tetracycline; cefepime; ceftriaxone; rifampin; colistin A; colistin B; triclosan; benzalkonium chloride; chlorhexidine
+k191_233067_427	resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams	tigecycline; tetracycline; rifampin; chloramphenicol; ampicillin; cefalotin; triclosan
+k191_180059_171	major facilitator superfamily (MFS) antibiotic efflux pump	acriflavine; puromycin
+k191_1492_1	elfamycin resistant EF-Tu	pulvomycin
+k191_180059_178	Penicillin-binding protein mutations conferring resistance to beta-lactam antibiotics	ceftriaxone; ampicillin; cefaclor; cefotaxime; cefditoren; cefdinir
+k191_233067_428	resistance-nodulation-cell division (RND) antibiotic efflux pump	tigecycline; ciprofloxacin; tetracycline; rifampin; chloramphenicol; ampicillin; cefalotin; triclosan
+k191_200534_14	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_58196_70	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_65506_6	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_126845_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_154203_2	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_172426_7	vanH; glycopeptide resistance gene cluster	vancomycin
+k191_261723_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_215384_9	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_36727_20	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_183233_118	vanH; glycopeptide resistance gene cluster	vancomycin
+k191_121380_16	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_117165_5	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_318815_26	SGM beta-lactamase	
+k191_2011_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_93948_164	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_38300_5	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_44128_59	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_96954_60	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_194857_123	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_200121_17	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_82338_74	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_224749_30	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_118562_286	macrolide phosphotransferase (MPH)	erythromycin
+k191_57469_4	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_194094_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_70690_13	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_127032_4	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_69174_8	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_170157_16	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k141_16111_2	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k141_39205_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k141_10261_81	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_28364_309	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k141_37023_8	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k141_37023_143	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_37716_4	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_7041_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_23952_2	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_19298_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+ORF_ID	AMR_Gene_Family	Antibiotic
+k141_102309_15	glycopeptide resistance gene cluster; Van ligase	vancomycin
+k141_102309_15	glycopeptide resistance gene cluster; Van ligase	vancomycin
+k141_10261_81	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_10261_81	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_103199_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k141_103199_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k141_10600_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_10600_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_106402_183	antibiotic-resistant GlpT	fosfomycin
+k141_106402_183	antibiotic-resistant GlpT	fosfomycin
+k141_106402_278	glycopeptide resistance gene cluster; Van ligase	vancomycin
+k141_106402_278	glycopeptide resistance gene cluster; Van ligase	vancomycin
+k141_110728_65	resistance-nodulation-cell division (RND) antibiotic efflux pump	novobiocin
+k141_110728_65	resistance-nodulation-cell division (RND) antibiotic efflux pump	novobiocin
+k141_11449_23	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k141_11449_23	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k141_11623_45	OXA beta-lactamase	cloxacillin; oxacillin; cefalotin
+k141_11623_45	OXA beta-lactamase	cloxacillin; oxacillin; cefalotin
+k141_119837_186	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_119837_186	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_12180_4	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_12180_4	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_12395_59	major facilitator superfamily (MFS) antibiotic efflux pump	nalidixic acid
+k141_12395_59	major facilitator superfamily (MFS) antibiotic efflux pump	nalidixic acid
+k141_12395_61	major facilitator superfamily (MFS) antibiotic efflux pump	nalidixic acid
+k141_12395_61	major facilitator superfamily (MFS) antibiotic efflux pump	nalidixic acid
+k141_126125_203	vanY; glycopeptide resistance gene cluster	vancomycin
+k141_126125_203	vanY; glycopeptide resistance gene cluster	vancomycin
+k141_12937_24	macrolide phosphotransferase (MPH)	erythromycin
+k141_12937_24	macrolide phosphotransferase (MPH)	erythromycin
+k141_12937_25	msr-type ABC-F protein	erythromycin
+k141_12937_25	msr-type ABC-F protein	erythromycin
+k141_140619_7	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k141_140619_7	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k141_14746_62	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_14746_62	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_160353_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_160353_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_16111_2	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k141_16111_2	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k141_16418_175	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k141_16418_175	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k141_171487_136	chloramphenicol acetyltransferase (CAT)	chloramphenicol
+k141_171487_136	chloramphenicol acetyltransferase (CAT)	chloramphenicol
+k141_172531_31	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_172531_31	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_17571_84	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k141_17571_84	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k141_178391_104	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k141_178391_104	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k141_18039_126	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k141_18039_126	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k141_1940_119	fosfomycin thiol transferase	fosfomycin
+k141_1940_119	fosfomycin thiol transferase	fosfomycin
+k141_1969_162	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k141_1969_162	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k141_21_29	vanW; glycopeptide resistance gene cluster	vancomycin
+k141_21_29	vanW; glycopeptide resistance gene cluster	vancomycin
+k141_24784_1	ANT(2'')	dibekacin; sisomicin; kanamycin A; tobramycin; gentamicin
+k141_24784_1	ANT(2'')	dibekacin; sisomicin; kanamycin A; tobramycin; gentamicin
+k141_24784_2	ANT(3'')	spectinomycin; streptomycin
+k141_24784_2	ANT(3'')	spectinomycin; streptomycin
+k141_24784_3	sulfonamide resistant sul	sulfadiazine; sulfadimidine; sulfadoxine; sulfamethoxazole; sulfisoxazole; sulfacetamide; mafenide; sulfasalazine; sulfamethizole
+k141_24784_3	sulfonamide resistant sul	sulfadiazine; sulfadimidine; sulfadoxine; sulfamethoxazole; sulfisoxazole; sulfacetamide; mafenide; sulfasalazine; sulfamethizole
+k141_25108_18	pmr phosphoethanolamine transferase	colistin A; colistin B
+k141_25108_18	pmr phosphoethanolamine transferase	colistin A; colistin B
+k141_25626_32	resistance-nodulation-cell division (RND) antibiotic efflux pump	erythromycin; cloxacillin; oxacillin; norfloxacin
+k141_25626_32	resistance-nodulation-cell division (RND) antibiotic efflux pump	erythromycin; cloxacillin; oxacillin; norfloxacin
+k141_2758_73	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_2758_73	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_28364_309	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k141_28364_309	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k141_2842_4	chloramphenicol acetyltransferase (CAT)	azidamfenicol; chloramphenicol; thiamphenicol
+k141_2842_4	chloramphenicol acetyltransferase (CAT)	azidamfenicol; chloramphenicol; thiamphenicol
+k141_29646_4	vanY; glycopeptide resistance gene cluster	vancomycin
+k141_29646_4	vanY; glycopeptide resistance gene cluster	vancomycin
+k141_3032_4	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k141_3032_4	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k141_3032_64	OXA beta-lactamase	cloxacillin; oxacillin; ampicillin; cefalotin
+k141_3032_64	OXA beta-lactamase	cloxacillin; oxacillin; ampicillin; cefalotin
+k141_34022_28	major facilitator superfamily (MFS) antibiotic efflux pump	
+k141_34022_28	major facilitator superfamily (MFS) antibiotic efflux pump	
+k141_34310_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k141_34310_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k141_34670_14	ATP-binding cassette (ABC) antibiotic efflux pump; major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump	tigecycline; ciprofloxacin; acriflavine; tetracycline; rifampin; chloramphenicol; ampicillin; norfloxacin; cefalotin; triclosan
+k141_34670_14	ATP-binding cassette (ABC) antibiotic efflux pump; major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump	tigecycline; ciprofloxacin; acriflavine; tetracycline; rifampin; chloramphenicol; ampicillin; norfloxacin; cefalotin; triclosan
+k141_3511_204	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k141_3511_204	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k141_36_93	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k141_36_93	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k141_37023_143	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_37023_143	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_37023_8	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k141_37023_8	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k141_3735_2	major facilitator superfamily (MFS) antibiotic efflux pump	
+k141_3735_2	major facilitator superfamily (MFS) antibiotic efflux pump	
+k141_39205_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k141_39205_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k141_4048_158	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_4048_158	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_41102_10	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_41102_10	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_4211_2	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline
+k141_4211_2	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline
+k141_4960_171	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_4960_171	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_5104_19	LUT beta-lactamase	
+k141_5104_19	LUT beta-lactamase	
+k141_5104_20	vanH; glycopeptide resistance gene cluster	vancomycin
+k141_5104_20	vanH; glycopeptide resistance gene cluster	vancomycin
+k141_5104_32	glycopeptide resistance gene cluster; Van ligase	vancomycin
+k141_5104_32	glycopeptide resistance gene cluster; Van ligase	vancomycin
+k141_5113_10	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_5113_10	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_54285_1	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline
+k141_54285_1	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline
+k141_5581_293	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_5581_293	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_5581_421	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k141_5581_421	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k141_6122_6	resistance-nodulation-cell division (RND) antibiotic efflux pump	vancomycin; tigecycline; tetracycline; linezolid; rifampin; chloramphenicol; ampicillin; cefalotin; triclosan
+k141_6122_6	resistance-nodulation-cell division (RND) antibiotic efflux pump	vancomycin; tigecycline; tetracycline; linezolid; rifampin; chloramphenicol; ampicillin; cefalotin; triclosan
+k141_62047_8	major facilitator superfamily (MFS) antibiotic efflux pump	
+k141_62047_8	major facilitator superfamily (MFS) antibiotic efflux pump	
+k141_66371_17	ATP-binding cassette (ABC) antibiotic efflux pump	metronidazole
+k141_66371_17	ATP-binding cassette (ABC) antibiotic efflux pump	metronidazole
+k141_66371_424	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_66371_424	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_66371_425	resistance-nodulation-cell division (RND) antibiotic efflux pump	tigecycline; ciprofloxacin; nitrofurantoin; trimethoprim
+k141_66371_425	resistance-nodulation-cell division (RND) antibiotic efflux pump	tigecycline; ciprofloxacin; nitrofurantoin; trimethoprim
+k141_66371_616	major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump	erythromycin; cloxacillin; ciprofloxacin; tetracycline; oxacillin; norfloxacin
+k141_66371_616	major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump	erythromycin; cloxacillin; ciprofloxacin; tetracycline; oxacillin; norfloxacin
+k141_66371_676	resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams	tigecycline; tetracycline; rifampin; chloramphenicol; ampicillin; cefalotin; triclosan
+k141_66371_676	resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams	tigecycline; tetracycline; rifampin; chloramphenicol; ampicillin; cefalotin; triclosan
+k141_66371_677	resistance-nodulation-cell division (RND) antibiotic efflux pump	tigecycline; ciprofloxacin; tetracycline; rifampin; chloramphenicol; ampicillin; cefalotin; triclosan
+k141_66371_677	resistance-nodulation-cell division (RND) antibiotic efflux pump	tigecycline; ciprofloxacin; tetracycline; rifampin; chloramphenicol; ampicillin; cefalotin; triclosan
+k141_67781_17	small multidrug resistance (SMR) antibiotic efflux pump	erythromycin; streptomycin; tetracycline; cefepime; ceftriaxone; rifampin; colistin A; colistin B; triclosan; benzalkonium chloride; chlorhexidine
+k141_67781_17	small multidrug resistance (SMR) antibiotic efflux pump	erythromycin; streptomycin; tetracycline; cefepime; ceftriaxone; rifampin; colistin A; colistin B; triclosan; benzalkonium chloride; chlorhexidine
+k141_67781_18	small multidrug resistance (SMR) antibiotic efflux pump	erythromycin; streptomycin; tetracycline; cefepime; ceftriaxone; rifampin; colistin A; colistin B; triclosan; benzalkonium chloride; chlorhexidine
+k141_67781_18	small multidrug resistance (SMR) antibiotic efflux pump	erythromycin; streptomycin; tetracycline; cefepime; ceftriaxone; rifampin; colistin A; colistin B; triclosan; benzalkonium chloride; chlorhexidine
+k141_69905_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_69905_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_76736_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k141_76736_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k141_77646_9	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_77646_9	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_77741_1	aminosalicylate resistant dihydrofolate synthase	para-aminosalicylic acid
+k141_77741_1	aminosalicylate resistant dihydrofolate synthase	para-aminosalicylic acid
+k141_78003_10	vanY; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k141_78003_10	vanY; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k141_78837_17	fosfomycin thiol transferase	ciprofloxacin; gentamicin
+k141_78837_17	fosfomycin thiol transferase	ciprofloxacin; gentamicin
+k141_78837_182	major facilitator superfamily (MFS) antibiotic efflux pump	acriflavine; puromycin
+k141_78837_182	major facilitator superfamily (MFS) antibiotic efflux pump	acriflavine; puromycin
+k141_78837_189	Penicillin-binding protein mutations conferring resistance to beta-lactam antibiotics	ceftriaxone; ampicillin; cefaclor; cefotaxime; cefditoren; cefdinir
+k141_78837_189	Penicillin-binding protein mutations conferring resistance to beta-lactam antibiotics	ceftriaxone; ampicillin; cefaclor; cefotaxime; cefditoren; cefdinir
+k141_81516_8	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_81516_8	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_8513_200	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_8513_200	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_8547_59	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_8547_59	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_8777_199	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_8777_199	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k141_89003_98	pmr phosphoethanolamine transferase	colistin A; colistin B
+k141_89003_98	pmr phosphoethanolamine transferase	colistin A; colistin B
+k141_8937_2	APH(3'')	streptomycin
+k141_8937_2	APH(3'')	streptomycin
+k141_8937_3	APH(6)	streptomycin
+k141_8937_3	APH(6)	streptomycin
+k191_101137_2	aminosalicylate resistant dihydrofolate synthase	para-aminosalicylic acid
+k191_101137_2	aminosalicylate resistant dihydrofolate synthase	para-aminosalicylic acid
+k191_1045428_34	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_1045428_34	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_1050147_6	tetracycline-resistant ribosomal protection protein	tetracycline; doxycycline; minocycline; chlortetracycline; demeclocycline; oxytetracycline
+k191_1050147_6	tetracycline-resistant ribosomal protection protein	tetracycline; doxycycline; minocycline; chlortetracycline; demeclocycline; oxytetracycline
+k191_1052436_132	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_1052436_132	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_1052436_133	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_1052436_133	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_1052436_14	fosfomycin thiol transferase	fosfomycin
+k191_1052436_14	fosfomycin thiol transferase	fosfomycin
+k191_1052436_6	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_1052436_6	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_105603_1	ATP-binding cassette (ABC) antibiotic efflux pump; major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump	tigecycline; ciprofloxacin; acriflavine; tetracycline; rifampin; chloramphenicol; ampicillin; norfloxacin; cefalotin; triclosan
+k191_105603_1	ATP-binding cassette (ABC) antibiotic efflux pump; major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump	tigecycline; ciprofloxacin; acriflavine; tetracycline; rifampin; chloramphenicol; ampicillin; norfloxacin; cefalotin; triclosan
+k191_107198_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_107198_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_1097027_3	fosfomycin thiol transferase	fosfomycin
+k191_1097027_3	fosfomycin thiol transferase	fosfomycin
+k191_111328_114	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_111328_114	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_111328_957	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_111328_957	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_111763_21	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_111763_21	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_112290_196	glycopeptide resistance gene cluster; Van ligase	vancomycin
+k191_112290_196	glycopeptide resistance gene cluster; Van ligase	vancomycin
+k191_112290_226	small multidrug resistance (SMR) antibiotic efflux pump	erythromycin; streptomycin; tetracycline; cefepime; ceftriaxone; rifampin; colistin A; colistin B; triclosan; benzalkonium chloride; chlorhexidine
+k191_112290_226	small multidrug resistance (SMR) antibiotic efflux pump	erythromycin; streptomycin; tetracycline; cefepime; ceftriaxone; rifampin; colistin A; colistin B; triclosan; benzalkonium chloride; chlorhexidine
+k191_112290_227	small multidrug resistance (SMR) antibiotic efflux pump	erythromycin; streptomycin; tetracycline; cefepime; ceftriaxone; rifampin; colistin A; colistin B; triclosan; benzalkonium chloride; chlorhexidine
+k191_112290_227	small multidrug resistance (SMR) antibiotic efflux pump	erythromycin; streptomycin; tetracycline; cefepime; ceftriaxone; rifampin; colistin A; colistin B; triclosan; benzalkonium chloride; chlorhexidine
+k191_112744_12	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_112744_12	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_113318_128	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_113318_128	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_115658_48	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_115658_48	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_117165_5	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_117165_5	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_118319_30	major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump	erythromycin; cloxacillin; ciprofloxacin; tetracycline; oxacillin; norfloxacin
+k191_118319_30	major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump	erythromycin; cloxacillin; ciprofloxacin; tetracycline; oxacillin; norfloxacin
+k191_118320_125	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_118320_125	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_118320_131	major facilitator superfamily (MFS) antibiotic efflux pump	nalidixic acid
+k191_118320_131	major facilitator superfamily (MFS) antibiotic efflux pump	nalidixic acid
+k191_118320_133	major facilitator superfamily (MFS) antibiotic efflux pump	nalidixic acid
+k191_118320_133	major facilitator superfamily (MFS) antibiotic efflux pump	nalidixic acid
+k191_118562_286	macrolide phosphotransferase (MPH)	erythromycin
+k191_118562_286	macrolide phosphotransferase (MPH)	erythromycin
+k191_119906_2	vanH; glycopeptide resistance gene cluster	vancomycin
+k191_119906_2	vanH; glycopeptide resistance gene cluster	vancomycin
+k191_1208009_1	tetracycline-resistant ribosomal protection protein	tetracycline; doxycycline; minocycline; chlortetracycline; demeclocycline; oxytetracycline
+k191_1208009_1	tetracycline-resistant ribosomal protection protein	tetracycline; doxycycline; minocycline; chlortetracycline; demeclocycline; oxytetracycline
+k191_121380_16	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_121380_16	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_1240499_4	vanY; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_1240499_4	vanY; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_124414_199	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_124414_199	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_1247134_76	vanH; glycopeptide resistance gene cluster	vancomycin
+k191_1247134_76	vanH; glycopeptide resistance gene cluster	vancomycin
+k191_12563_101	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_12563_101	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_126845_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_126845_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_127032_4	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_127032_4	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_127305_1	APH(3'')	streptomycin
+k191_127305_1	APH(3'')	streptomycin
+k191_1295_293	BJP beta-lactamase	
+k191_1295_293	BJP beta-lactamase	
+k191_12998_10	fosfomycin thiol transferase	fosfomycin
+k191_12998_10	fosfomycin thiol transferase	fosfomycin
+k191_1359534_143	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_1359534_143	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_1359534_785	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_1359534_785	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_1364039_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_1364039_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_138999_5	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_138999_5	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_14049_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_14049_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_142318_38	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_142318_38	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_143384_35	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_143384_35	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_14376_124	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_14376_124	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_144793_2	vanY; glycopeptide resistance gene cluster	vancomycin
+k191_144793_2	vanY; glycopeptide resistance gene cluster	vancomycin
+k191_145199_13	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_145199_13	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_14690_7	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_14690_7	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_147051_43	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_147051_43	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_1492_1	elfamycin resistant EF-Tu	pulvomycin
+k191_1492_1	elfamycin resistant EF-Tu	pulvomycin
+k191_14923_10	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_14923_10	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_14923_66	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_14923_66	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_1510_152	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_1510_152	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_15128_137	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_15128_137	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_15128_272	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_15128_272	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_152303_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_152303_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_15319_21	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_15319_21	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_15341_23	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_15341_23	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_154203_2	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_154203_2	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_156705_8	glycopeptide resistance gene cluster; vanT	vancomycin
+k191_156705_8	glycopeptide resistance gene cluster; vanT	vancomycin
+k191_156776_643	ATP-binding cassette (ABC) antibiotic efflux pump	metronidazole
+k191_156776_643	ATP-binding cassette (ABC) antibiotic efflux pump	metronidazole
+k191_156776_78	glycopeptide resistance gene cluster; Van ligase	vancomycin
+k191_156776_78	glycopeptide resistance gene cluster; Van ligase	vancomycin
+k191_161842_23	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_161842_23	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_16364_293	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_16364_293	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_168116_21	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_168116_21	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_1688_111	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_1688_111	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_169905_4	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_169905_4	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_170157_16	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_170157_16	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_172426_7	vanH; glycopeptide resistance gene cluster	vancomycin
+k191_172426_7	vanH; glycopeptide resistance gene cluster	vancomycin
+k191_176670_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_176670_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_179085_16	helicase-like RNA polymerase protection protein	rifampin; rifaximin; rifabutin
+k191_179085_16	helicase-like RNA polymerase protection protein	rifampin; rifaximin; rifabutin
+k191_180059_171	major facilitator superfamily (MFS) antibiotic efflux pump	acriflavine; puromycin
+k191_180059_171	major facilitator superfamily (MFS) antibiotic efflux pump	acriflavine; puromycin
+k191_180059_178	Penicillin-binding protein mutations conferring resistance to beta-lactam antibiotics	ceftriaxone; ampicillin; cefaclor; cefotaxime; cefditoren; cefdinir
+k191_180059_178	Penicillin-binding protein mutations conferring resistance to beta-lactam antibiotics	ceftriaxone; ampicillin; cefaclor; cefotaxime; cefditoren; cefdinir
+k191_182215_7	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_182215_7	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_183233_118	vanH; glycopeptide resistance gene cluster	vancomycin
+k191_183233_118	vanH; glycopeptide resistance gene cluster	vancomycin
+k191_187394_13	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_187394_13	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_188743_271	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_188743_271	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_19298_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_19298_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_194094_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_194094_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_194857_123	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_194857_123	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_1955_73	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_1955_73	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_197760_2	vanY; glycopeptide resistance gene cluster	vancomycin
+k191_197760_2	vanY; glycopeptide resistance gene cluster	vancomycin
+k191_19846_4	vanH; glycopeptide resistance gene cluster	vancomycin
+k191_19846_4	vanH; glycopeptide resistance gene cluster	vancomycin
+k191_200121_17	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_200121_17	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_200534_14	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_200534_14	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_2011_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_2011_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_204873_125	fosfomycin thiol transferase	fosfomycin
+k191_204873_125	fosfomycin thiol transferase	fosfomycin
+k191_213020_40	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_213020_40	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_2135296_1	msr-type ABC-F protein	erythromycin; azithromycin
+k191_2135296_1	msr-type ABC-F protein	erythromycin; azithromycin
+k191_215384_9	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_215384_9	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_218353_3	PER beta-lactamase	
+k191_218353_3	PER beta-lactamase	
+k191_219001_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_219001_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_220058_6	resistance-nodulation-cell division (RND) antibiotic efflux pump	erythromycin; cloxacillin; oxacillin; norfloxacin
+k191_220058_6	resistance-nodulation-cell division (RND) antibiotic efflux pump	erythromycin; cloxacillin; oxacillin; norfloxacin
+k191_224030_2	vanY; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_224030_2	vanY; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_224749_30	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_224749_30	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_22664_7	major facilitator superfamily (MFS) antibiotic efflux pump	erythromycin; gentamicin C; ciprofloxacin; spectinomycin; streptomycin; tobramycin; ceftazidime; ertapenem; piperacillin; azithromycin; imipenem; polymyxin B; polymyxin B1; polymyxin B2; polymyxin B3; polymyxin B4; norfloxacin; ticarcillin; gentamicin
+k191_22664_7	major facilitator superfamily (MFS) antibiotic efflux pump	erythromycin; gentamicin C; ciprofloxacin; spectinomycin; streptomycin; tobramycin; ceftazidime; ertapenem; piperacillin; azithromycin; imipenem; polymyxin B; polymyxin B1; polymyxin B2; polymyxin B3; polymyxin B4; norfloxacin; ticarcillin; gentamicin
+k191_231748_28	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_231748_28	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_233067_334	small multidrug resistance (SMR) antibiotic efflux pump	erythromycin; streptomycin; tetracycline; cefepime; ceftriaxone; rifampin; colistin A; colistin B; triclosan; benzalkonium chloride; chlorhexidine
+k191_233067_334	small multidrug resistance (SMR) antibiotic efflux pump	erythromycin; streptomycin; tetracycline; cefepime; ceftriaxone; rifampin; colistin A; colistin B; triclosan; benzalkonium chloride; chlorhexidine
+k191_233067_335	small multidrug resistance (SMR) antibiotic efflux pump	erythromycin; streptomycin; tetracycline; cefepime; ceftriaxone; rifampin; colistin A; colistin B; triclosan; benzalkonium chloride; chlorhexidine
+k191_233067_335	small multidrug resistance (SMR) antibiotic efflux pump	erythromycin; streptomycin; tetracycline; cefepime; ceftriaxone; rifampin; colistin A; colistin B; triclosan; benzalkonium chloride; chlorhexidine
+k191_233067_427	resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams	tigecycline; tetracycline; rifampin; chloramphenicol; ampicillin; cefalotin; triclosan
+k191_233067_427	resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams	tigecycline; tetracycline; rifampin; chloramphenicol; ampicillin; cefalotin; triclosan
+k191_233067_428	resistance-nodulation-cell division (RND) antibiotic efflux pump	tigecycline; ciprofloxacin; tetracycline; rifampin; chloramphenicol; ampicillin; cefalotin; triclosan
+k191_233067_428	resistance-nodulation-cell division (RND) antibiotic efflux pump	tigecycline; ciprofloxacin; tetracycline; rifampin; chloramphenicol; ampicillin; cefalotin; triclosan
+k191_233680_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_233680_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_23620_225	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_23620_225	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_23620_261	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_23620_261	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_239459_107	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_239459_107	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_239459_127	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_239459_127	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_23952_2	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_23952_2	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_241006_209	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_241006_209	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_249145_345	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_249145_345	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_24992_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_24992_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_2513_44	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_2513_44	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_25749_213	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_25749_213	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_26110_23	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_26110_23	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_261723_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_261723_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_26341_67	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_26341_67	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_270910_47	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_270910_47	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_2743_18	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_2743_18	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_27455_184	Penicillin-binding protein mutations conferring resistance to beta-lactam antibiotics	ceftriaxone; ampicillin; cefaclor; cefotaxime; cefditoren; cefdinir
+k191_27455_184	Penicillin-binding protein mutations conferring resistance to beta-lactam antibiotics	ceftriaxone; ampicillin; cefaclor; cefotaxime; cefditoren; cefdinir
+k191_284138_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_284138_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_28538_39	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_28538_39	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_287915_9	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_287915_9	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_28813_1246	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_28813_1246	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_29732_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_29732_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_29996_1926	major facilitator superfamily (MFS) antibiotic efflux pump	nalidixic acid
+k191_29996_1926	major facilitator superfamily (MFS) antibiotic efflux pump	nalidixic acid
+k191_29996_75	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_29996_75	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_29996_866	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_29996_866	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_3010_54	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_3010_54	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_301306_5	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_301306_5	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_306373_148	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_306373_148	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_31114_21	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_31114_21	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_31399_24	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_31399_24	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_31660_2	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_31660_2	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_318815_26	SGM beta-lactamase	
+k191_318815_26	SGM beta-lactamase	
+k191_3228_115	chloramphenicol acetyltransferase (CAT)	chloramphenicol
+k191_3228_115	chloramphenicol acetyltransferase (CAT)	chloramphenicol
+k191_32342_16	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_32342_16	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_32343_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_32343_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_323838_5	vanY; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_323838_5	vanY; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_32480_116	ATP-binding cassette (ABC) antibiotic efflux pump; major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump	tigecycline; ciprofloxacin; acriflavine; tetracycline; rifampin; chloramphenicol; ampicillin; norfloxacin; cefalotin; triclosan
+k191_32480_116	ATP-binding cassette (ABC) antibiotic efflux pump; major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump	tigecycline; ciprofloxacin; acriflavine; tetracycline; rifampin; chloramphenicol; ampicillin; norfloxacin; cefalotin; triclosan
+k191_3328_62	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_3328_62	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_33426_4	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_33426_4	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_335236_40	aminosalicylate resistant dihydrofolate synthase	para-aminosalicylic acid
+k191_335236_40	aminosalicylate resistant dihydrofolate synthase	para-aminosalicylic acid
+k191_343640_12	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_343640_12	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_34378_55	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_34378_55	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_3512_4	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_3512_4	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_352313_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_352313_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_352590_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_352590_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_35729_13	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_35729_13	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_35729_80	vanH; glycopeptide resistance gene cluster	vancomycin
+k191_35729_80	vanH; glycopeptide resistance gene cluster	vancomycin
+k191_35832_4	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_35832_4	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_360692_44	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_360692_44	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_36269_6	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_36269_6	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_36391_10	fluoroquinolone resistant gyrB	enoxacin; ciprofloxacin; levofloxacin; moxifloxacin; gatifloxacin; lomefloxacin; nalidixic acid; norfloxacin; ofloxacin; trovafloxacin; grepafloxacin; sparfloxacin; pefloxacin
+k191_36391_10	fluoroquinolone resistant gyrB	enoxacin; ciprofloxacin; levofloxacin; moxifloxacin; gatifloxacin; lomefloxacin; nalidixic acid; norfloxacin; ofloxacin; trovafloxacin; grepafloxacin; sparfloxacin; pefloxacin
+k191_36391_331	resistance-nodulation-cell division (RND) antibiotic efflux pump	erythromycin; cloxacillin; oxacillin; norfloxacin
+k191_36391_331	resistance-nodulation-cell division (RND) antibiotic efflux pump	erythromycin; cloxacillin; oxacillin; norfloxacin
+k191_36727_20	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_36727_20	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_376096_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_376096_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_376529_1	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_376529_1	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_37716_4	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_37716_4	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_38300_5	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_38300_5	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_39207_1	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline
+k191_39207_1	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline
+k191_394238_9	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_394238_9	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_40132_84	vanH; glycopeptide resistance gene cluster	vancomycin
+k191_40132_84	vanH; glycopeptide resistance gene cluster	vancomycin
+k191_405440_26	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_405440_26	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_415970_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_415970_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_418335_3	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_418335_3	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_418965_67	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_418965_67	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_421071_220	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_421071_220	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_42240_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_42240_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_42552_4	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_42552_4	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_42590_34	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_42590_34	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_431696_11	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_431696_11	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_4369_5	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_4369_5	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_4409_22	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_4409_22	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_44128_59	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_44128_59	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_449691_71	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_449691_71	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_4526_40	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_4526_40	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_455713_102	vanH; glycopeptide resistance gene cluster	vancomycin
+k191_455713_102	vanH; glycopeptide resistance gene cluster	vancomycin
+k191_457705_34	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_457705_34	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_458818_38	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_458818_38	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_46345_18	OCH beta-lactamase	
+k191_46345_18	OCH beta-lactamase	
+k191_466114_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_466114_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_469074_3	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_469074_3	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_471003_10	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_471003_10	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_473350_6	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_473350_6	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_473451_139	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_473451_139	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_473451_5	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_473451_5	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_4777_136	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_4777_136	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_49702_10	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_49702_10	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_501374_1	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_501374_1	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_505104_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_505104_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_50702_182	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_50702_182	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_511617_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_511617_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_514289_145	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_514289_145	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_515545_13	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_515545_13	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_522185_2	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_522185_2	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_53128_356	Penicillin-binding protein mutations conferring resistance to beta-lactam antibiotics	ceftriaxone; ampicillin; cefaclor; cefotaxime; cefditoren; cefdinir
+k191_53128_356	Penicillin-binding protein mutations conferring resistance to beta-lactam antibiotics	ceftriaxone; ampicillin; cefaclor; cefotaxime; cefditoren; cefdinir
+k191_535355_58	rifampin monooxygenase	rifampin; rifaximin; rifapentine
+k191_535355_58	rifampin monooxygenase	rifampin; rifaximin; rifapentine
+k191_55680_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_55680_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_561901_3	rifampin monooxygenase	rifampin; rifaximin; rifapentine
+k191_561901_3	rifampin monooxygenase	rifampin; rifaximin; rifapentine
+k191_566345_342	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_566345_342	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_57469_4	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_57469_4	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_576474_2	major facilitator superfamily (MFS) antibiotic efflux pump	chloramphenicol
+k191_576474_2	major facilitator superfamily (MFS) antibiotic efflux pump	chloramphenicol
+k191_57794_228	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_57794_228	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_581825_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_581825_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_58196_70	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_58196_70	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_586179_38	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_586179_38	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_59576_15	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_59576_15	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_596950_30	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_596950_30	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_59955_159	resistance-nodulation-cell division (RND) antibiotic efflux pump	erythromycin; cloxacillin; oxacillin; norfloxacin
+k191_59955_159	resistance-nodulation-cell division (RND) antibiotic efflux pump	erythromycin; cloxacillin; oxacillin; norfloxacin
+k191_606822_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_606822_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_6113_90	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_6113_90	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_615941_5	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_615941_5	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_62246_3	vanY; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_62246_3	vanY; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_63504_1	ANT(3'')	spectinomycin; streptomycin
+k191_63504_1	ANT(3'')	spectinomycin; streptomycin
+k191_637759_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_637759_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_6407_75	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_6407_75	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_6502_27	OXA beta-lactamase	cloxacillin; oxacillin; cefalotin
+k191_6502_27	OXA beta-lactamase	cloxacillin; oxacillin; cefalotin
+k191_653058_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_653058_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_65506_6	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_65506_6	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_661525_7	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_661525_7	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_665848_53	RbpA bacterial RNA polymerase-binding protein	rifampin; rifaximin; rifabutin; rifapentine
+k191_665848_53	RbpA bacterial RNA polymerase-binding protein	rifampin; rifaximin; rifabutin; rifapentine
+k191_673055_5	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_673055_5	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_67632_36	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_67632_36	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_68867_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_68867_3	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_6896_17	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_6896_17	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_69174_8	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_69174_8	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_69277_4	vanH; glycopeptide resistance gene cluster	vancomycin
+k191_69277_4	vanH; glycopeptide resistance gene cluster	vancomycin
+k191_69984_2	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_69984_2	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_70071_16	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_70071_16	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_7041_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_7041_1	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_70690_13	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_70690_13	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_721260_57	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_721260_57	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_73932_139	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_73932_139	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_7466_120	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_7466_120	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_7466_78	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_7466_78	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_79108_101	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_79108_101	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_79108_80	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_79108_80	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_796026_65	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_796026_65	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_798824_3	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_798824_3	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_798824_9	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_798824_9	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_808303_204	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_808303_204	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_82338_74	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_82338_74	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_825745_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_825745_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_839840_2	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_839840_2	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_84142_75	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_84142_75	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_84622_4	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_84622_4	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_8499_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_8499_2	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_87052_6	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_87052_6	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_88056_115	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_88056_115	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_88718_172	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_88718_172	resistance-nodulation-cell division (RND) antibiotic efflux pump	trimethoprim; chloramphenicol
+k191_913340_11	vanY; glycopeptide resistance gene cluster	vancomycin
+k191_913340_11	vanY; glycopeptide resistance gene cluster	vancomycin
+k191_9159_108	OXA beta-lactamase	cloxacillin; oxacillin; cefalotin
+k191_9159_108	OXA beta-lactamase	cloxacillin; oxacillin; cefalotin
+k191_91611_33	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_91611_33	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_92366_504	pmr phosphoethanolamine transferase	colistin A; colistin B
+k191_92366_504	pmr phosphoethanolamine transferase	colistin A; colistin B
+k191_93018_2	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_93018_2	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_930751_5	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_930751_5	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_934185_23	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_934185_23	small multidrug resistance (SMR) antibiotic efflux pump	benzalkonium chloride
+k191_93948_164	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_93948_164	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_941653_1	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_941653_1	vanW; glycopeptide resistance gene cluster	vancomycin; teicoplanin
+k191_95212_17	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_95212_17	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_95337_3	sulfonamide resistant sul	sulfadiazine; sulfadimidine; sulfadoxine; sulfamethoxazole; sulfisoxazole; sulfacetamide; mafenide; sulfasalazine; sulfamethizole
+k191_95337_3	sulfonamide resistant sul	sulfadiazine; sulfadimidine; sulfadoxine; sulfamethoxazole; sulfisoxazole; sulfacetamide; mafenide; sulfasalazine; sulfamethizole
+k191_95337_4	major facilitator superfamily (MFS) antibiotic efflux pump	
+k191_95337_4	major facilitator superfamily (MFS) antibiotic efflux pump	
+k191_967870_88	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_967870_88	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_96954_60	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_96954_60	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_97951_112	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_97951_112	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_97951_366	resistance-nodulation-cell division (RND) antibiotic efflux pump	novobiocin
+k191_97951_366	resistance-nodulation-cell division (RND) antibiotic efflux pump	novobiocin
+k191_99739_322	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+k191_99739_322	resistance-nodulation-cell division (RND) antibiotic efflux pump	tetracycline
+ORF_ID	AMR_Gene_Family	Antibiotic
